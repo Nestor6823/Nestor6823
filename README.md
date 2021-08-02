@@ -5,5 +5,5 @@
 -->
 #### Where to find me
 
-- {Facebook}{https://www.facebook.com/nestorjuniors}
-- {Linkedin}{https://www.linkedin.com/in/nestor-junior-silvera-cusirramos-44374b119/}
+- [Facebook](https://www.facebook.com/nestorjuniors)
+- [Linkedin](https://www.linkedin.com/in/nestor-junior-silvera-cusirramos-44374b119/)
