@@ -1,6 +1,6 @@
 ### Hello, my name is Nestor Silvera👋
 
-### full-stack with MERN
+### Front end developer
 I am a professional software developer, currently I do not have much experience but I have the knowledge 
 and skills to be able to develop in the professional field
 
